@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# csvparse / https://www.notion.so/highereducation/csvparse-4df76519f2bc4172bac881213bad9afc
+# csvparse / https://github.com/jasoncomes/CSV-Parse-Liquid-Filter
 # Parses CSV data into a JSON object or array of objects.
 # {% assign data = datasrc | csvparse %}
 
