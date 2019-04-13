@@ -33,55 +33,55 @@
     default_example
     
     {
-    	22: {
-    		"ID": "22",
-    		"Rank": "1",
-    		"Name": "South Dakota State University",
-    		"Location": "Brookings, South Dakota",
-    		"Study Area": "Bachelors in Science",
-    		"URL": "https://www.sdstate.edu/online-graduate-degrees"
-    	},
+      22: {
+        "ID": "22",
+        "Rank": "1",
+        "Name": "South Dakota State University",
+        "Location": "Brookings, South Dakota",
+        "Study Area": "Bachelors in Science",
+        "URL": "https://www.sdstate.edu/online-graduate-degrees"
+      },
       ...
     }
     
     headers_convert_example
     
     {
-    	22: {
-    		"id": "22",
-    		"rank": "1",
-    		"name": "South Dakota State University",
-    		"location": "Brookings, South Dakota",
-    		"study_area": "Bachelors in Science",
-    		"url": "https://www.sdstate.edu/online-graduate-degrees"
-    	},
+      22: {
+        "id": "22",
+        "rank": "1",
+        "name": "South Dakota State University",
+        "location": "Brookings, South Dakota",
+        "study_area": "Bachelors in Science",
+        "url": "https://www.sdstate.edu/online-graduate-degrees"
+      },
       ...
     }
     
     array_example
     
     [
-    	{
-    		"ID": "1",
-    		"Rank": "1",
-    		"Name": "South Dakota State University",
-    		"Location": "Brookings, South Dakota",
-    		"Study Area": "Bachelors in Science",
-    		"URL": "https://www.sdstate.edu/online-graduate-degrees"
-    	},
+      {
+        "ID": "1",
+        "Rank": "1",
+        "Name": "South Dakota State University",
+         "Location": "Brookings, South Dakota",
+        "Study Area": "Bachelors in Science",
+        "URL": "https://www.sdstate.edu/online-graduate-degrees"
+      },
       ...
     ]
     
     array_headers_convert_example
     
     [
-    	{
-    		"id": "1",
-    	  "rank": "1",
-    		"name": "South Dakota State University",
-    		"location": "Brookings, South Dakota",
-    		"study_area": "Bachelors in Science",
-    		"url": "https://www.sdstate.edu/online-graduate-degrees"
-    	},
+      {
+        "id": "1",
+        "rank": "1",
+        "name": "South Dakota State University",
+        "location": "Brookings, South Dakota",
+        "study_area": "Bachelors in Science",
+        "url": "https://www.sdstate.edu/online-graduate-degrees"
+      },
       ...
     ]
